@@ -1,9 +1,6 @@
 /*
- * Homework 06
- * ContactListFragment
- *Group12_HW06
+ * WeatherForecast class
  * Samba Diagne
- * Chris Overcash
  */
 package edu.uncc.weather;
 

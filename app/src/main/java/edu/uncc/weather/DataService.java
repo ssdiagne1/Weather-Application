@@ -1,9 +1,6 @@
 /*
- * Homework 06
  * ContactListFragment
- *Group12_I06
  * Samba Diagne
- * Chris Overcash
  */
 package edu.uncc.weather;
 import java.io.Serializable;
